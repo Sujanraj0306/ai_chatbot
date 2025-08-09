@@ -1,5 +1,5 @@
+<div>
 <div align="center">
-
 # AI\_CHATBOT
 
 *Transform Conversations Into Intelligent Opportunities*
@@ -18,7 +18,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ---
-
+</div>
 ## 📌 Overview
 
 AI\_CHATBOT is an intelligent chatbot designed to transform natural language conversations into actionable insights and opportunities. It leverages modern programming languages and frameworks to ensure efficiency, scalability, and maintainability.
